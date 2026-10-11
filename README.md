@@ -76,6 +76,12 @@ This project demonstrates how data analytics can support marketplace decision-ma
 - `E-Commerce_Marketplace_Analytics.pbix` — Power BI dashboard
 - `README.md` — Project documentation
 
+- ## Dashboard Preview
+
+![E-Commerce Marketplace Analytics Dashboard](dashboard_overview.png)
+
+*Interactive Power BI dashboard analyzing revenue, product categories, geographic performance, delivery, and customer experience.*
+
 *Folder and file names may vary slightly depending on the final repository structure.*
 
 ## Conclusion
